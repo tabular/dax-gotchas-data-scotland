@@ -1,7 +1,11 @@
 # DAX Gotchas at DATA:Scotland
 Slides and Power BI templates files from the session **DAX Gotchas** by **Chris Woolderink** at **DATA:Scotland** on **13th September 2019**.
 
+Power BI Template files: https://github.com/tabular/dax-gotchas-data-scotland/tree/master/Lab
+
 Note: Source code for the **Clear Cache C# application** can be found from the SQLBits repository at https://github.com/tabular/dax-gotchas/blob/master/Source/04%20Program.cs.
+
+**Slidedeck:**
 
 ![alt text](https://github.com/tabular/dax-gotchas-data-scotland/blob/master/Documentation/Slide01.JPG "Slide 01")
 
